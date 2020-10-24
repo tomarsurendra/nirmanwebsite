@@ -1,0 +1,15 @@
+li {
+    display: inline;
+    margin: 1pc;
+  }
+  ul{
+    display: inline;
+    color: white;
+  }
+  nav {
+      background-image: url('../../../../assets/background.JPG');
+      text-decoration: cornsilk;
+  }
+  a {
+    color: whitesmoke;
+  }

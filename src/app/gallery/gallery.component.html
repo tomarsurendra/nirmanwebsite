@@ -1,0 +1,3 @@
+<div *ngFor="let image of _albums; let i=index">
+    <img [src]="image.thumb" (click)="open(i)" class="centers"/>
+</div>
