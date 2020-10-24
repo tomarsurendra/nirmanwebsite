@@ -1,4 +1,4 @@
-# Nirmanwebsite
+# Website Demo - Some important features - ng lightbox, ng carousel, shared header footer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
 
